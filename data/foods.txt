@@ -1,0 +1,17 @@
+composite,vada,medhu vada,medhu|vada,rice:2|sprout:2
+basic,sprout,sprouts,sprout|sprouts,250
+basic,butter,Butter,butter|fat,102
+basic,bread,Bread Slice,bread|grain,80
+composite,csalad,chicken salad,salad|chicken|greens,chicken:2|sprout:1
+basic,banana,Banana,banana|fruit,105
+basic,seeds,seeds,seed|seeds,300
+basic,Juice,Ganne ka juice,Ganne|Sugarcane|juice,300
+basic,pb,Peanut Butter,peanut|butter,190
+composite,pb_sandwich,Peanut Butter Sandwich,sandwich|peanut,bread:2|pb:1
+basic,apple,Apple,apple|fruit,95
+basic,chicken,Chicken Breast,chicken|meat|protein,165
+basic,milk,Whole Milk,milk|dairy,149
+basic,rice,White Rice,rice|grain,206
+basic,cheese,Cheddar Cheese,cheese|dairy,113
+composite,bshake,banana shake,shake|banana|bananashake,banana:2|milk:2
+basic,egg,Egg,egg|protein,78
