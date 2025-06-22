@@ -30,8 +30,6 @@ YADA (Yet Another Diet Assistant) is a prototype diet management system implemen
   - **Modular Design:** By using traits such as `FoodDataSource` and `CalorieCalculator`, the design facilitates future extensions with minimal code changes.
   - **Optimized Logs:** Food entries store only identifiers (rather than full food details), reducing redundancy in the log file as it grows.
 
-Below is the new Assumptions section that you can add to your README file:
-
 ---
 
 ## Assumptions
